@@ -298,12 +298,14 @@ $ git push</pre>
                     <li><a href="http://git-scm.com/documentation">Git documentation</a></li>
                   </ul>
 
+                  <p>This demo is powered by Azure</p>
+
 
           </section>
         </div>
 
         <footer>
-          <div class="logo"><a href="https://www.openshift.com/"></a>, powered by Azure</div>
+          <div class="logo"><a href="https://www.openshift.com/"></a></div>
         </footer>
 </section>
 
